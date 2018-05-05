@@ -1,0 +1,6 @@
+section.records div.list p {
+    border: 1px solid black;
+}
+section.records div.list p span {
+    font-weight: bold;
+}
